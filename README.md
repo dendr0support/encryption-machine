@@ -55,6 +55,15 @@ You choose the functions and combinations — no baked-in algorithms, only what 
 
 ---
 
+### 📬 Feedback & Contact
+
+Found a bug? Have an idea? Want to say thanks? I'd love to hear from you!
+
+📧 **Email:** [dendr0.tec.sub@gmail.com](mailto:dendr0.tec.sub@gmail.com)  
+💬 **Telegram:** [@foirri](https://t.me/foirri)
+
+---
+
 ### 👤 Author
 
 **Dendr0_0**  
@@ -116,6 +125,15 @@ Open for free use. Copy it, tweak it, share it — go wild.
 **📱 iPhone**
 1. Установи **Pythonista** или **Pyto** (App Store)
 2. Создай файл, вставь код, нажми Run
+
+---
+
+### 📬 Обратная связь
+
+Нашёл баг? Есть идея? Хочешь просто сказать спасибо? Буду рад любому сообщению!
+
+📧 **Почта:** [dendr0.tec.sub@gmail.com](mailto:dendr0.tec.sub@gmail.com)  
+💬 **Telegram:** [@foirri](https://t.me/foirri)
 
 ---
 
