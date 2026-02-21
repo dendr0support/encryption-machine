@@ -449,10 +449,14 @@ def show_instruction():
 def main():
     protocols = load_protocols()
     while True:
-        print("\n" + "="*35)
-        print("  ENCRYPTION MACHINE v1.0")
-        print("  Powered by Dendr0_0")
-        print("="*35)
+        print("\n" + "="*40)
+        print("CUSTOM CYPHER PROTOCOL SYSTEM (CCPS)")
+        print("V1.0")
+        print("Security is not given. It is constructed.")
+        print("Build Your Own Cypher.")
+        print("="*40)
+        print("Powered by Dendr0_0")
+        print("="*40)
         print("1 – encrypt")
         print("2 – decrypt")
         print("3 – verify function")
@@ -460,11 +464,6 @@ def main():
         print("0 – exit")
         choice = input("> ").strip()
         if choice == "0":
-            print("\n" + "="*35)
-            print("  ENCRYPTION MACHINE v1.0")
-            print("  Powered by Dendr0_0")
-            print("="*35)
-            print("Goodbye!")
             break
         elif choice == "4":
             protocols_menu(protocols)
