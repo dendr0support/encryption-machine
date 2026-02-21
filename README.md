@@ -1,17 +1,26 @@
-# 🔐 Encryption Machine / Шифровальная машина
+# 🔐 Custom Cypher
+## CCPS — Custom Cypher Protocol System
+### Encryption Machine | Шифровальная машина
+
+**Build Your Own Cypher.** | **Создай свой шифр.**
 
 **[English](#english) | [Русский](#russian)**
 
 ---
 
 <a name="english"></a>
-## 🔐 Encryption Machine
+## 🔐 Custom Cypher
+### CCPS — Custom Cypher Protocol System
 
-**Design your own protocols. Encrypt your way.**
+**Build Your Own Cypher.**
 
-Lightweight, simple, and clean. Works perfectly on any device — PC, laptop, Android, iPhone. The code is well-organized and easy to extend: adding new features or making tweaks is a breeze.
+In a world where everyone uses the same algorithms, your privacy is only as strong as the weakest link. **CCPS changes that.**
 
-You choose the functions and combinations — no baked-in algorithms, only what you build yourself.
+This is not another encryption tool. This is a **cipher constructor**. You don't choose from existing methods — you build your own. Function by function. Command by command. Until you have a system that exists nowhere else.
+
+Why does this matter? Because standard encryption is known. Studied. Vulnerable. When you create your own protocol, you're not protecting against computers — you're protecting against **everyone who doesn't know your rules**.
+
+For your conversations. For your passwords. For your privacy.
 
 ---
 
@@ -77,14 +86,24 @@ Open for free use. Copy it, tweak it, share it — go wild.
 
 ---
 
+> **Security is not given. It is constructed.**  
+> **Build Your Own Cypher.**
+
+---
+
 <a name="russian"></a>
-## 🔐 Шифровальная машина
+## 🔐 Custom Cypher
+### CCPS — Custom Cypher Protocol System (Система пользовательских протоколов шифрования)
 
-**Придумывай свои протоколы. Шифруй по-своему.**
+**Создай свой шифр.**
 
-Программа очень лёгкая и простая. Она прекрасно работает на любых устройствах — ПК, ноутбуках, телефонах (Android и iOS). Код оптимизирован и удобно организован: добавлять новые функции, вносить правки и изменения очень легко.
+В мире, где все используют одни и те же алгоритмы, твоя приватность настолько сильна, насколько слабое звено в цепи. **CCPS меняет это.**
 
-Пользователь сам выбирает любые функции и комбинации — никаких готовых алгоритмов, только то, что составишь ты сам.
+Это не очередной инструмент шифрования. Это **конструктор шифров**. Ты не выбираешь из готовых методов — ты создаёшь свои. Функция за функцией. Команда за командой. Пока не получишь систему, которой больше ни у кого нет.
+
+Почему это важно? Потому что стандартное шифрование — изучено. Проанализировано. Уязвимо. Когда ты создаёшь свой протокол, ты защищаешься не от компьютеров — ты защищаешься от **всех, кто не знает твоих правил**.
+
+Для твоих разговоров. Для твоих паролей. Для твоей приватности.
 
 ---
 
@@ -147,3 +166,8 @@ Open for free use. Copy it, tweak it, share it — go wild.
 ### 📜 Лицензия
 
 Открыто для свободного использования. Можно копировать, менять и делиться.
+
+---
+
+> **Безопасность не даётся — она создаётся.**  
+> **Создай свой шифр.**
